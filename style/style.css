@@ -98,3 +98,11 @@
 
 .foto-carrito {
   width: 85px; }
+
+.botonCarrito {
+  border: none;
+  box-shadow: none;
+  background: transparent; }
+
+.carrito-img {
+  width: 20px; }
