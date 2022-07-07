@@ -17,9 +17,6 @@
   "bugs": {
     "url": "https://github.com/maurorobledo87/proyectoFinalJS/issues"
   },
-  "homepage": "https://github.com/maurorobledo87/proyectoFinalJS#readme",
-  "devDependencies": {
-    "node-sass": "^7.0.1",
-    "nodemon": "^2.0.15"
-  }
+  "homepage": "https://github.com/maurorobledo87/proyectoFinalJS#readme"
+
 }
